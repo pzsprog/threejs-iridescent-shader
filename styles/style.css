@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    /* background-image: url('../assets/background.jpg'); */
+}
+
+canvas { 
+    display: block; 
+    width: 90%;
+    height: 90%;
+    cursor: grab;
+}
